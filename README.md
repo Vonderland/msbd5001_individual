@@ -15,3 +15,5 @@ sklearn.ensemble,
 sklearn.metrics,
 math,
 xgboost
+
+Please comment or uncomment the test and train dataset path if you want to run locally or on kaggle
